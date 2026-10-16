@@ -1,0 +1,22 @@
+[
+  {
+    "q": "Do my report credits ever expire?",
+    "a": "Never. You buy credits once, and they sit in your account until you need them. Use one today, and the rest 6 months from now. Zero rush, zero expiration dates."
+  },
+  {
+    "q": "Window Sticker vs. History Report: what's the difference?",
+    "a": "A History Report tells you what happened to the vehicle over time (accidents, title brands, owners, mileage). A Window Sticker tells you what the vehicle actually is (exact factory packages, MSRP, paint codes, engine specs) as it rolled off the assembly line."
+  },
+  {
+    "q": "How fast do I get my document?",
+    "a": "Instantly. As soon as you enter the VIN, our servers query NMVTIS, state DMVs, and factory databases. Your document generates right on your screen in seconds, and an instant PDF download link goes straight to your inbox."
+  },
+  {
+    "q": "Can I download and print the window sticker?",
+    "a": "Yes. Every sticker generates as a high-definition vector PDF formatted to standard letter size. Print it out, stick it on the dash, or attach it to your online listing."
+  },
+  {
+    "q": "What if my VIN has no records?",
+    "a": "If our automated system can't pull records for your VIN, our 24/7 support will manually research the factory archives for you or refund your credit immediately. No games."
+  }
+]

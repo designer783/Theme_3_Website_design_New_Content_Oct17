@@ -1,0 +1,96 @@
+[
+    {
+        "report": {
+            "uvc_subscription_plan": [
+                {
+                    "id": "18115",
+                    "name": "Unlimited VIN Check",
+                    "code": "660UVC",
+                    "price": "29.99",
+                    "nos": "-1",
+                    "type": "unlimited_vin_check_premium",
+                    "gumroad": "",
+                    "discount": "50",
+                    "currency_sign": "$",
+                    "currency_code": "USD",
+                    "c_id": "2",
+                    "recurring": "monthly"
+                }
+            ],
+            "credit_plans": [
+                {
+                    "name": "Silver",
+                    "code": "BUILDSHEETSTICKER2",
+                    "price": "50",
+                    "nos": "2",
+                    "type": "report",
+                    "gumroad": "ET4VR2",
+                    "currency_sign": "$",
+                    "currency_code": "USD",
+                    "c_id": "2",
+                    "usd_price": "50"
+                },
+                {
+                    "name": "Basic",
+                    "code": "BUILDSHEETSTICKER1",
+                    "price": "35",
+                    "nos": "1",
+                    "type": "report",
+                    "gumroad": "ET4VR1",
+                    "currency_sign": "$",
+                    "currency_code": "USD",
+                    "c_id": "2",
+                    "usd_price": "35"
+                }
+            ]
+        }
+    },
+    {
+        "sticker": {
+            "subscription_plan": [
+                {
+                    "id": "18114",
+                    "name": "Unlimited Stickers / Month",
+                    "code": "BUILDSHEETSTICKERSTUN",
+                    "price": "79.99",
+                    "nos": "-1",
+                    "type": "sticker_subscription",
+                    "gumroad": "BUILDSHEETSTICKER STUN",
+                    "discount": "0",
+                    "currency_sign": "$",
+                    "currency_code": "USD",
+                    "c_id": "2",
+                    "recurring": "monthly"
+                }
+            ],
+            "credit_plans": [
+                {
+                    "id": "18110",
+                    "name": "Full Price",
+                    "code": "BUILDSHEETSTICKERST1",
+                    "price": "35",
+                    "nos": "1",
+                    "type": "sticker",
+                    "gumroad": "ET4WS1",
+                    "currency_sign": "$",
+                    "currency_code": "USD",
+                    "c_id": "2",
+                    "usd_price": "35"
+                },
+                {
+                    "id": "18112",
+                    "name": "Best Deal",
+                    "code": "BUILDSHEETSTICKERST2",
+                    "price": "50",
+                    "nos": "2",
+                    "type": "sticker",
+                    "gumroad": "ET4WS2",
+                    "currency_sign": "$",
+                    "currency_code": "USD",
+                    "c_id": "2",
+                    "usd_price": "50"
+                }
+            ]
+        }
+    }
+]
